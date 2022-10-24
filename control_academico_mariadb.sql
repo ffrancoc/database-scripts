@@ -1,3 +1,5 @@
+-- BASE DE DATOS control_academico
+
 -- TABLA PARA GUARDAR INFORMACIÓN DE LOS USUARIOS
 create TABLE
   if NOT EXISTS usuario(
